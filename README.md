@@ -3,7 +3,7 @@ RESTful API для управления заказами в приложении
 
 
 Установка
-git clone ...
+git clone git@github.com:mirzoyev13/meatfacture-api.git
 cd masofaktura
 composer install
 cp .env.example .env
